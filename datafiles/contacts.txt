@@ -1,0 +1,10 @@
+Name,  Phone  , Email
+Sardar,8867783993,gali12393@gmail.com
+
+Sravani,8867783987,gali123493@gmail.com
+
+pradeep,8297826965,tonystarksgpk@gmail.com
+
+name2,9876543210,hiidude@gamil.com
+
+name3,98374112319,hiii1234@gamil.com
