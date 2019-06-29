@@ -1,10 +1,4 @@
-Name,  Phone  , Email
-Sardar,8867783993,gali12393@gmail.com
-
-Sravani,8867783987,gali123493@gmail.com
-
-pradeep,8297826965,tonystarksgpk@gmail.com
-
-name2,9876543210,hiidude@gamil.com
-
-name3,98374112319,hiii1234@gamil.com
+pradeepgali,8297826786,pspkgpk@gmail.com
+Robert,9876543210,notgoodenough@gmail.com
+Robert Downey.jr,9554278920,iamironman@gmail.com
+Edward collens,9554279020,twilight@gmail.com
